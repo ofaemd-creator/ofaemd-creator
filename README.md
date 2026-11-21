@@ -120,6 +120,25 @@ AI-generated code execution is insulated through an in-depth security architectu
 
 ---
 
+## 📦 Official GitHub Packages Registry ([github.com/ofaemd-creator?tab=packages](https://github.com/ofaemd-creator?tab=packages))
+
+All 10 SYNAX ecosystem modules are published to the **GitHub Package Registry (`npm.pkg.github.com`)** at version **`v6.3.0`**:
+
+| Package (`@ofaemd-creator/*`) | Linked Repository | Version | Capabilities & SDK Scope |
+| :--- | :--- | :--- | :--- |
+| [**`@ofaemd-creator/synax`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax) | [`ofaemd-creator/synax`](https://github.com/ofaemd-creator/synax) | `v6.3.0` | Core `.sx` Language SDK, 19-Suite IEEE-754 0-ULP Formal Interval Verifier & Compiler Bridge |
+| [**`@ofaemd-creator/synax-agent-office`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-agent-office) | [`ofaemd-creator/synax-agent-office`](https://github.com/ofaemd-creator/synax-agent-office) | `v6.3.0` | SYNAX-OS Sovereign Multi-Agent Microkernel, 3D Isometric Agent Office & MCP Orchestration SDK |
+| [**`@ofaemd-creator/synax-academic-q1-suite`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-academic-q1-suite) | [`ofaemd-creator/synax-agent-office`](https://github.com/ofaemd-creator/synax-agent-office) | `v6.3.0` | Q1 SCIE Academic Publishing, PRISMA 2020 Meta-Analysis, De-AI Humanizer & 3-Referee Peer-Review Suite |
+| [**`@ofaemd-creator/synax-biomed-autocal`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-biomed-autocal) | [`ofaemd-creator/synax-biomed-autocal`](https://github.com/ofaemd-creator/synax-biomed-autocal) | `v6.3.0` | Contractive Lyapunov ($V_{k+1} < V_k$) Zero-Drift Calibration SDK for ICU ECG, IBP & SpO2 Telemetry |
+| [**`@ofaemd-creator/synax-token-shield`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-token-shield) | [`ofaemd-creator/synax-token-shield`](https://github.com/ofaemd-creator/synax-token-shield) | `v6.3.0` | AST Code Skeletonizer & `-88.4%` AI Token Cost Compressor for Claude Code, Codex & Antigravity |
+| [**`@ofaemd-creator/synax-context-vault`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-context-vault) | [`ofaemd-creator/synax-context-vault`](https://github.com/ofaemd-creator/synax-context-vault) | `v6.3.0` | `<180`-Token SHA-256 Cryptographic Cross-Agent Memory & Session Handoff SDK |
+| [**`@ofaemd-creator/synax-egraph-prover`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-egraph-prover) | [`ofaemd-creator/synax-egraph-prover`](https://github.com/ofaemd-creator/synax-egraph-prover) | `v6.3.0` | E-Graph Equality Saturation & Interval Abstract Interpretation 0-ULP Mathematical Prover |
+| [**`@ofaemd-creator/synax-studio`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-studio) | [`ofaemd-creator/synax-studio`](https://github.com/ofaemd-creator/synax-studio) | `v6.3.0` | 5-Target Multi-Silicon Hardware Synthesis Studio (ANSI C11, ARM64 NEON, AVX2, Q16.16 MCU, LLVM IR) |
+| [**`@ofaemd-creator/synax-vscode-chat`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-vscode-chat) | [`ofaemd-creator/synax-vscode-chat`](https://github.com/ofaemd-creator/synax-vscode-chat) | `v6.3.0` | SYNAX Chat & 3D Agent Office IDE Bridge for VS Code, Cursor, Windsurf & Antigravity |
+| [**`@ofaemd-creator/synax-telegram-bot`**](https://github.com/users/ofaemd-creator/packages/npm/package/synax-telegram-bot) | [`ofaemd-creator/synax-telegram-bot`](https://github.com/ofaemd-creator/synax-telegram-bot) | `v6.3.0` | Mobile Remote Agent & Compiler Bridge (`@synax_compiler_bot`) SDK for Telegram & MCP |
+
+---
+
 ## 📌 Featured GitHub Gists & Executable Code Blueprints ([gist.github.com/ofaemd-creator](https://gist.github.com/ofaemd-creator))
 
 | Gist Blueprint | Files Included | Domain & Capabilities |

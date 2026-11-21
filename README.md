@@ -120,6 +120,18 @@ AI-generated code execution is insulated through an in-depth security architectu
 
 ---
 
+## 📋 Official GitHub Projects & Roadmaps ([github.com/ofaemd-creator/ofaemd-creator/projects](https://github.com/ofaemd-creator/ofaemd-creator/projects))
+
+| Project # | Project Board Title | Focus & Active Deliverables | Visibility |
+| :--- | :--- | :--- | :--- |
+| [**Project #1**](https://github.com/users/ofaemd-creator/projects/1) | **SYNAX (`.sx`) Core Language, 0-ULP Formal Prover & Multi-Silicon Compiler** | 19-Suite IEEE-754 0-ULP Interval Prover, E-Graph Saturation & 5-Target Hardware Codegen | 🟢 `Public` |
+| [**Project #2**](https://github.com/users/ofaemd-creator/projects/2) | **SYNAX-OS Sovereign Multi-Agent Microkernel & 3D Agent Office v6.3** | Preemptive Microkernel (PCB, VAFS, IPC, AST Sandbox), 13 Custom Agents & 3D Isometric Office | 🟢 `Public` |
+| [**Project #3**](https://github.com/users/ofaemd-creator/projects/3) | **SYNAX Q1 SCIE Academic Publishing, Humanizer & 3-Referee Peer-Review Suite** | PRISMA 2020 Meta-Analysis, EQUATOR IMRaD Authoring, De-AI Humanizer & 3-Referee Simulator | 🟢 `Public` |
+| [**Project #4**](https://github.com/users/ofaemd-creator/projects/4) | **SYNAX Biomedical Autonomic Zero-Drift ($V_{k+1} < V_k$) & ICU Telemetry** | Contractive Lyapunov-Kalman Drift Suppression & IEEE-754 Fault-Healing for ECG, IBP & SpO2 | 🟢 `Public` |
+| [**Project #5**](https://github.com/users/ofaemd-creator/projects/5) | **SYNAX Token Shield (-88.4% AST) & SHA-256 Context Vault Ecosystem** | AST Code Skeletonizer, RLE Log Deduplication & `<180`-Token Cryptographic Agent Handoffs | 🟢 `Public` |
+
+---
+
 ## 📦 Official GitHub Packages Registry ([github.com/ofaemd-creator?tab=packages](https://github.com/ofaemd-creator?tab=packages))
 
 All 10 SYNAX ecosystem modules are published to the **GitHub Package Registry (`npm.pkg.github.com`)** at version **`v6.3.0`**:

@@ -120,6 +120,18 @@ AI-generated code execution is insulated through an in-depth security architectu
 
 ---
 
+## 📌 Featured GitHub Gists & Executable Code Blueprints ([gist.github.com/ofaemd-creator](https://gist.github.com/ofaemd-creator))
+
+| Gist Blueprint | Files Included | Domain & Capabilities |
+| :--- | :--- | :--- |
+| [**🎓 SYNAX Q1 SCIE Academic Publishing & 3-Referee Peer-Review Suite**](https://gist.github.com/ofaemd-creator/25ef582515e5ae24fca4e258a6f5a457) | `01_SYNAX_Q1_Academic_Publishing_Guide.md`, `02_run_q1_publication_pipeline.py`, `03_q1_scie_template.tex` | 5-Agent Q1 SCIE IMRaD Authoring, De-AI Academic Humanizer, 3-Referee Peer Review & Camera-Ready LaTeX |
+| [**🫀 Biomedical Contractive Lyapunov ($V_{k+1} < V_k$) Zero-Drift Kernel**](https://gist.github.com/ofaemd-creator/16304a6af60b059b578ddb732b678276) | `lyapunov_biomed_autocal.sx`, `lyapunov_ecg_ibp_autocal.c`, `verify_lyapunov_stability.py` | ICU ECG/IBP Autonomic Calibration in `.sx`, ANSI C11, ARM64 NEON, AVX2, Q16.16 MCU & Python |
+| [**📊 DerSimonian-Laird Random-Effects Biostatistical Meta-Analysis**](https://gist.github.com/ofaemd-creator/15608e277b929c7f8630bf868b5f943a) | `dersimonian_laird_meta_analysis.py` | Zero-Dependency $\tau^2$, Cochran's $Q$, Higgins $I^2$, 95% CI, 95% Prediction Interval & Statistical Power |
+| [**🛡️ SYNAX Token Shield (-88% AST) & SHA-256 Context Vault**](https://gist.github.com/ofaemd-creator/fa4213236818149ed7ac0872b75ecc84) | `synax_token_shield_vault.py` | AST Code Skeletonization & `<180`-Token Cryptographic Cross-Agent Handoff Capsules |
+| [**⚡ SYNAX (`.sx`) IEEE-754 0-ULP Interval Prover**](https://gist.github.com/ofaemd-creator/2751b5158197f501195b84fb76dc88e1) | `ieee754_interval_prover.py` | Interval Abstract Interpretation & Bounded Arithmetic Safety Verifier |
+
+---
+
 ## 🌐 Official Portals & Contact
 
 - **Official Web Studio:** [synaxcode.com](https://synaxcode.com)

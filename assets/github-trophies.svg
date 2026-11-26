@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128" role="img" aria-label="Dr. Ömer Faruk Aydın GitHub Trophies">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141321"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fe428e"/>
+      <stop offset="100%" stop-color="#f8d847"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card { fill: url(#bg); stroke: #2a2744; stroke-width: 1.2; rx: 12; }
+    .title { font: 700 12px 'Segoe UI', Inter, -apple-system, sans-serif; fill: #fe428e; letter-spacing: 0.6px; }
+    .rank { font: 800 22px 'Segoe UI', Inter, -apple-system, sans-serif; fill: #f8d847; }
+    .val { font: 700 13px 'JetBrains Mono', monospace, sans-serif; fill: #e2e8f0; }
+    .sub { font: 500 10.5px 'Segoe UI', Inter, -apple-system, sans-serif; fill: #94a3b8; }
+    .bar-bg { fill: #232138; rx: 3; }
+  </style>
+
+  <!-- Card 1: Repositories -->
+  <g transform="translate(8,8)">
+    <rect width="158" height="112" class="card"/>
+    <text x="79" y="24" text-anchor="middle" class="title">REPOSITORIES</text>
+    <text x="79" y="57" text-anchor="middle" class="rank">A+</text>
+    <text x="79" y="79" text-anchor="middle" class="val">11 Public Repos</text>
+    <rect x="24" y="90" width="110" height="6" class="bar-bg"/>
+    <rect x="24" y="90" width="92" height="6" rx="3" fill="url(#accent1)"/>
+  </g>
+
+  <!-- Card 2: Stars -->
+  <g transform="translate(174,8)">
+    <rect width="158" height="112" class="card"/>
+    <text x="79" y="24" text-anchor="middle" class="title">STARS</text>
+    <text x="79" y="57" text-anchor="middle" class="rank">★ 10</text>
+    <text x="79" y="79" text-anchor="middle" class="val">Rising Creator</text>
+    <rect x="24" y="90" width="110" height="6" class="bar-bg"/>
+    <rect x="24" y="90" width="84" height="6" rx="3" fill="url(#accent1)"/>
+  </g>
+
+  <!-- Card 3: SYNAX Core -->
+  <g transform="translate(340,8)">
+    <rect width="158" height="112" class="card"/>
+    <text x="79" y="24" text-anchor="middle" class="title">COMPILER &amp; AI</text>
+    <text x="79" y="57" text-anchor="middle" class="rank">S</text>
+    <text x="79" y="79" text-anchor="middle" class="val">SYNAX .SX · 0-ULP</text>
+    <rect x="24" y="90" width="110" height="6" class="bar-bg"/>
+    <rect x="24" y="90" width="104" height="6" rx="3" fill="url(#accent2)"/>
+  </g>
+
+  <!-- Card 4: Research -->
+  <g transform="translate(506,8)">
+    <rect width="158" height="112" class="card"/>
+    <text x="79" y="24" text-anchor="middle" class="title">MED &amp; SCIE</text>
+    <text x="79" y="57" text-anchor="middle" class="rank">Q1</text>
+    <text x="79" y="79" text-anchor="middle" class="val">PRISMA · Biostat</text>
+    <rect x="24" y="90" width="110" height="6" class="bar-bg"/>
+    <rect x="24" y="90" width="98" height="6" rx="3" fill="url(#accent2)"/>
+  </g>
+
+  <!-- Card 5: Ecosystem -->
+  <g transform="translate(672,8)">
+    <rect width="160" height="112" class="card"/>
+    <text x="80" y="24" text-anchor="middle" class="title">ECOSYSTEM</text>
+    <text x="80" y="57" text-anchor="middle" class="rank">6x</text>
+    <text x="80" y="79" text-anchor="middle" class="val">synaxcode.com</text>
+    <rect x="25" y="90" width="110" height="6" class="bar-bg"/>
+    <rect x="25" y="90" width="108" height="6" rx="3" fill="url(#accent1)"/>
+  </g>
+</svg>

@@ -31,7 +31,7 @@ My work addresses three foundational challenges in modern computational systems:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ofaemd-creator&theme=radical&no-frame=true&margin-w=4" alt="GitHub Profile Trophies" />
+<img src="./assets/github-trophies.svg" alt="GitHub Profile Trophies" />
 
 <br/><br/>
 
